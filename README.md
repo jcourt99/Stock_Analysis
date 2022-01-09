@@ -1,1 +1,2 @@
-# stock-analysis
+# Stock-Analysis
+Green Stocks analysis project
